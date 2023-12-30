@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prakashpoojar-00
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Hybrid app development
+- 🌱 I’m currently learning Hybrid app development and App-Development
 - 💞️ I’m looking to collaborate with word developers
 - 📫 How to reach me prakashpoojarkusanur@gmail.com
 
